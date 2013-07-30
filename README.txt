@@ -1,6 +1,6 @@
 Control your Belkin Wemo Switch using the Pebble Watch. (iOS only)
 
-Compile the "Webble Pebble" app using the pebble sdk or cloudpebble.net
+Compile the "Webble" app using the pebble sdk or cloudpebble.net
 If you press the UP/DOWN/SELECT button on your pebble it will send an http request to one of the php scripts (won.php, woff.php) via the httpebble
 The php script will send trigger@ifttt.com an email with subject line "#OFF" or "#ON"
 Create a "MAIL RECIPE" on your IFTTT account to TURN ON you registered WEMO Switch.
