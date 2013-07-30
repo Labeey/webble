@@ -1,0 +1,16 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png-trans",
+            "file": "images/webble_icon.png"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "raw",
+            "file": "data/resource_map.json"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
